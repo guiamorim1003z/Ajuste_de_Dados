@@ -79,6 +79,3 @@ Contém:
 
 Guilherme Ribeiro Amorim  
 
-
-O conjunto de dados utilizado está disponível em:
-
